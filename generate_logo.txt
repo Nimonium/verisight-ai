@@ -1,0 +1,9 @@
+Generate a square app icon for VERISIGHT-AI deepfake detection app. The icon should be:
+- Square aspect ratio (1:1)
+- Simple iconic design suitable for app launcher
+- No rounded corners
+- Icon must fill the entire square
+- Dark background with bright green accent (tactical/security theme)
+- Incorporate elements suggesting: AI, detection, security, authenticity verification
+- Modern, minimalist design
+- Professional appearance for national security/digital integrity use case
